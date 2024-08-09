@@ -13,7 +13,7 @@ I'm a blend of a data-driven industrial background & passion for FOSS, privacy r
 
 ## 🛠️ Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaymeCall&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaymeCall&layout=compact&theme=tokyonight)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C_language-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
