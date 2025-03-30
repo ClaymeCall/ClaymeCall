@@ -27,7 +27,7 @@ I'm a blend of a data-driven industrial background & passion for FOSS, privacy r
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cl%C3%A9ment-callejon-6015b31a9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/clement-callejon/)
 
 ---
 
