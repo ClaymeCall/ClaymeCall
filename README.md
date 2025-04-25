@@ -6,7 +6,7 @@
 
 I'm a blend of a data-driven industrial background & passion for FOSS, privacy respecting software. In my spare time I like to code, tinker my 3D printer and play some notes 🎵
 
-- 🔭 I’m currently working on a **Fullstack second-Hand construction materials marketplace**
+- 🔭 I’m currently working on **Migrating my work computer to NixOS**
 - 🌱 I’m currently learning **programming fundamentals** at **Holberton School** Toulouse 
 
 ---
