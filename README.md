@@ -20,6 +20,7 @@ I'm a blend of a data-driven industrial background & passion for FOSS, privacy r
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-23262F?style=for-the-badge&logo=astro&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VIM](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
