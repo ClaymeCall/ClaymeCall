@@ -6,8 +6,7 @@
 
 I'm a blend of a data-driven industrial background & passion for FOSS, privacy respecting software. In my spare time I like to code, tinker with my 3D printer and play some notes 🎵
 
-- 🔭 I’m currently working on **Migrating my work computer to NixOS**
-- 🌱 I’m currently learning **programming fundamentals** at **Holberton School** Toulouse 
+- 🔭 I’m currently working on **[Recett.eu](https://codeberg.org/cbouvat/recett.eu)**
 
 ---
 
@@ -35,5 +34,5 @@ I'm a blend of a data-driven industrial background & passion for FOSS, privacy r
 
 ## 💬 Let's Chat
 
-Feel free to reach out if you want to [collaborate](mailto:clement.callejon@tutanota.com), discuss an idea, or just say hi!
+Feel free to reach out if you want to [collaborate](mailto:clement.callejon@tutanota.com) or discuss an idea.
 
