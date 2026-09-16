@@ -6,7 +6,7 @@
 
 I'm a blend of a data-driven industrial background & passion for FOSS, privacy respecting software. In my spare time I like to code, tinker with my 3D printer and play some notes 🎵
 
-- 🔭 I’m currently working on **[Recett.eu](https://codeberg.org/cbouvat/recett.eu)**
+- 🔭 I’m currently studying agentic full-stack development @ Holberton School
 
 ---
 
