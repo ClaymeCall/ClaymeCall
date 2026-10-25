@@ -7,6 +7,10 @@
 I'm a blend of a data-driven industrial background & passion for FOSS, privacy respecting software. In my spare time I like to code, tinker with my 3D printer and play some notes 🎵
 
 - 🔭 I’m currently studying agentic full-stack development @ Holberton School
+- I'm working on [Contrigator](https://contrigator.dev)
+
+<img width="1344" height="216" alt="image" src="https://github.com/user-attachments/assets/0d6e0344-c7d6-42fc-a4b4-3a0b13c8093f" />
+
 
 ---
 
